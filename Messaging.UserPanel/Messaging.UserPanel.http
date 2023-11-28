@@ -1,0 +1,13 @@
+@Messaging.UserPanel_HostAddress = http://localhost:5217
+
+POST {{Messaging.UserPanel_HostAddress}}/SendUserRequestToInventory/
+Content-Type: application/json 
+
+{
+  "Amount":100,
+  "ProductName":"Sony TV",
+  "ProductId":231,
+  "UserId":2
+}
+
+###

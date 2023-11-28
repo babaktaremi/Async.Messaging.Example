@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging.UserPanel", "Messaging.UserPanel\Messaging.UserPanel.csproj", "{6F320230-2006-4CE9-818E-F9BD35E3F985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging.Inventory", "Messaging.Inventory\Messaging.Inventory.csproj", "{03AD59A0-1742-4A7B-8598-4363FEABF5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F320230-2006-4CE9-818E-F9BD35E3F985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F320230-2006-4CE9-818E-F9BD35E3F985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F320230-2006-4CE9-818E-F9BD35E3F985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F320230-2006-4CE9-818E-F9BD35E3F985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AD59A0-1742-4A7B-8598-4363FEABF5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AD59A0-1742-4A7B-8598-4363FEABF5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AD59A0-1742-4A7B-8598-4363FEABF5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AD59A0-1742-4A7B-8598-4363FEABF5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80957110-6972-46EA-8CDE-536BBC3551B7}
+	EndGlobalSection
+EndGlobal
